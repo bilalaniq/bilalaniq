@@ -3,11 +3,11 @@
 <br>
 
 ```
-                                                _    ,    _  _     _     _       _
-                                               ' )  /    // //    ' )   /       //   / /
-                                                /--/ _  // // __   / / /__ __  // __/ /
-                                               /  (_</_</_</_(_)  (_(_/(_)/ (_</_(_/_'
-                                                                                o
+                                              _    ,    _  _     _     _       _
+                                             ' )  /    // //    ' )   /       //   / /
+                                              /--/ _  // // __   / / /__ __  // __/ /
+                                             /  (_</_</_</_(_)  (_(_/(_)/ (_</_(_/_'
+                                                                              o
 ```
 
 <div align="center">
@@ -17,17 +17,31 @@
 <br>
 
 <p>
-    I am a passionate <strong>Cybersecurity Enthusiast</strong> currently pursuing a Bachelor of Science in Cybersecurity at Air University, Islamabad, with plans to graduate in 2027. I have a keen interest in understanding the complexities of digital security and strive to develop my skills to protect against cyber threats. Living in Pakistan, I am constantly learning and staying updated on the latest trends and challenges in the cybersecurity field. My goal is to contribute to making the digital world a safer place and further enhance my expertise in this ever-evolving domain.
+  I am a passionate <strong>Cybersecurity Enthusiast</strong> currently pursuing a Bachelor of Science in Cybersecurity at Air University, Islamabad, with plans to graduate in 2027. I have a keen interest in understanding the complexities of digital security and strive to develop my skills to protect against cyber threats. Living in Pakistan, I am constantly learning and staying updated on the latest trends and challenges in the cybersecurity field. My goal is to contribute to making the digital world a safer place and further enhance my expertise in this ever-evolving domain.
 </p>
 
-  <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" style="float:right; margin-left: 20px; max-width: 40%;"/>
+<!-- Image aligned to the right -->
+<img align="right" height="150" src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" />
 
-#### Find Me On
+<h3 align="left">Find Me On</h3>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-24292F?logo=github&logoColor=white)](https://github.com/bilalaniq)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-b159a5292/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:bilalaniq2@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bilalaniq4/)
+<!-- Social Media Links -->
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+  <a href="https://github.com/bilalaniq" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-24292F?logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-bilal-b159a5292/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:bilalaniq2@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/bilalaniq4/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br>
 
 <img src="./gif/skills.gif" alt="skills" width="3%" /> &nbsp; **_Skills_**
 
