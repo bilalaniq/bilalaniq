@@ -19,9 +19,8 @@
 <p>
     I am a passionate <strong>Cybersecurity Enthusiast</strong> currently pursuing a Bachelor of Science in Cybersecurity at Air University, Islamabad, with plans to graduate in 2027. I have a keen interest in understanding the complexities of digital security and strive to develop my skills to protect against cyber threats. Living in Pakistan, I am constantly learning and staying updated on the latest trends and challenges in the cybersecurity field. My goal is to contribute to making the digital world a safer place and further enhance my expertise in this ever-evolving domain.
 </p>
-<p>
-    <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" style="float:right; margin-left: 20px; max-width: 40%;"/>
-</p>
+
+  <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" style="float:right; margin-left: 20px; max-width: 40%;"/>
 
 #### Find Me On
 
