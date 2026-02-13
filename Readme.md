@@ -52,9 +52,6 @@
     <img src="https://skillicons.dev/icons?i=js" style="display:inline-block; width: 50px;" />
     <img src="https://skillicons.dev/icons?i=git" style="display:inline-block; width: 50px;" />
     <img src="https://skillicons.dev/icons?i=electron" style="display:inline-block; width: 50px;" />
-     <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" style="display:inline-block; width: 50px;" />
-     <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" style="display:inline-block; width: 50px;" />
-     <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" style="display:inline-block; width: 50px;" />
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="display:inline-block; width: 50px;" />
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="display:inline-block; width: 50px;" />
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" style="display:inline-block; width: 50px;" />
@@ -90,3 +87,4 @@
 <br>
 
 <img src="./gif/rgb_line.gif" alt="rgb line" width="100%"/>
+
