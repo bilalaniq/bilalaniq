@@ -78,13 +78,13 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalaniq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalaniq&theme=github_dark" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilalaniq&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilalaniq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilalaniq&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilalaniq&theme=github_dark" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilalaniq&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bilalaniq&theme=radical&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilalaniq&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bilalaniq&theme=github_dark&utcOffset=5" />
 </p>
 
 <br>
