@@ -78,9 +78,13 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalaniq&show_icons=true&theme=radical&title_color=FF6347&icon_color=32CD32&bg_color=282C34" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalaniq&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaniq&theme=radical&title_color=FF6347" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilalaniq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilalaniq&theme=radical" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilalaniq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bilalaniq&theme=radical&utcOffset=5" />
 </p>
 
 <br>
